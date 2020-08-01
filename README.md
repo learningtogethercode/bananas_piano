@@ -1,2 +1,3 @@
 # bananas_piano
-Piano using bananas and Arduino
+Create your own piano using bananas!
+Try other fruits!!!
